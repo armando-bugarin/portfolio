@@ -1,3 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
+All about Armando
+
+[Live Site](https://armando-bugarin-portfolio.netlify.app/)
